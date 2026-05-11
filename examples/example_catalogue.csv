@@ -1,0 +1,7 @@
+row_id,category,event_duration_s,mean_event_current_pA,raw_path
+0,1,0.35,12.2,
+1,2,0.80,8.1,
+2,2,1.20,15.6,
+3,3,0.15,30.5,
+4,2,2.00,6.2,
+5,1,1.50,10.4,

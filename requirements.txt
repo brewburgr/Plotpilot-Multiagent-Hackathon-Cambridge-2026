@@ -1,0 +1,10 @@
+dash==2.18.2
+plotly==5.24.1
+pandas==2.2.3
+pyarrow==17.0.0
+pydantic==2.13.4
+python-dotenv==1.0.1
+openai==1.68.2
+langgraph==0.2.70
+langchain-core==0.3.59
+typing_extensions==4.15.0
